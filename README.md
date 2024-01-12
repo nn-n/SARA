@@ -1,6 +1,6 @@
-# SARA Speech Recognition Search Bot
+# SARA Speech-Assisted Resource Assistant Bot
 
-SARA (Speech Automated Recognition Assitant) is a Python-based voice-controlled search bot 
+SARA (Speech-Assisted Resource Assistant ) is a Python-based voice-controlled search bot 
 that utilizes speech recognition to perform Google searches and retrieve relevant results.
 
 ## Features
